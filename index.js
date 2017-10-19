@@ -7,6 +7,7 @@ const obj={
   tw:"@max"
 }
 console.log(obj.email)
+console.log(obj.tw)
 
 
 //console.log("hola mundo");
