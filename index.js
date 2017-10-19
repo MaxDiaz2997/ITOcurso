@@ -8,6 +8,7 @@ const obj={
 }
 console.log(obj.email)
 console.log(obj.tw)
+console.log(obj.edad)
 
 
 //console.log("hola mundo");
